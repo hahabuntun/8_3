@@ -1,3 +1,94 @@
 <resources>
-    <string name="app_name">Fitnes</string>
+    <string name="app_name">FitnessMotivationTips</string>
+
+    <string name="day1">Day 1</string>
+    <string name="tip1">Set the goal. Be realistic with your goal. Don\'t aim too high.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="tip2">Focus on compound exercises that work multiple muscle groups at once.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="tip3">Don\'t neglect your cardiovascular health - include some form of cardio in your routine.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="tip4">Find a workout partner or join a fitness class for added motivation.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="tip5">Make sure you have proper workout attire and footwear.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="tip6">Listen to your body and take rest days when needed.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="tip7">Celebrate small victories and progress towards your goals.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="tip8">If you quit now, you never be able to start it again and keep it going.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="tip9">If you want to look fit then make it happen.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="tip10">Find ways to make exercise fun and enjoyable.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="tip11">Don\'t be afraid to ask for help or guidance from a professional.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="tip12">Mix up your cardio routine with different forms such as running, cycling, or rowing.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="tip13">Take care of your mental health by managing stress and practicing self-care.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="tip14">Use a heart rate monitor to track your intensity and progress.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="tip15">UMix up your routine to prevent boredom and plateauing.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="tip16">Try new activities such as rock climbing, hiking, or swimming to keep things interesting.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="tip17">Use technology to track your progress and stay motivated.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="tip18">Incorporate high-intensity interval training (HIIT) to maximize your time and burn more calories.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="tip19">Get enough sleep to aid in muscle recovery and overall health.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="tip20">Drink plenty of water to stay hydrated.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="tip21">Use proper form when performing exercises to prevent injury.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="tip22">Incorporate yoga or other forms of relaxation to reduce stress.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="tip23"> Increase your intensity gradually to avoid injury and burnout.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="tip24">Use a foam roller to massage sore muscles.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="tip25"> Don\'t skip warm-up and cool-down exercises.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="tip26">Take breaks from sitting for long periods of time to prevent muscle tightness.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="tip27">Eat a balanced diet that supports your fitness goals.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="tip28">Stretch regularly to improve flexibility and prevent injury.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="tip29"> Incorporate resistance training to build muscle and improve bone density.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="tip30">Remember that fitness is a journey and not a destination - enjoy the process and stay consistent</string>
+
 </resources>
